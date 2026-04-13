@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Peilin liu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/peilinliu.jpg"
   bio              : "My research focuses on Federated Learning, Multimodal Large Language Models, and Computer Vision."
   location         : "Jilin, China"
   employer         :
