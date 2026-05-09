@@ -84,8 +84,8 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="
-      width: 660px;
-      height: 250px;
+      width: 360px;
+      height: 200px;
       overflow: hidden;
       display: flex;
       align-items: center;
