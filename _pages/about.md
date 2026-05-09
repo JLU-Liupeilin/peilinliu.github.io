@@ -65,8 +65,8 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <img src='images/wpgrec.png' alt="WPGRec" width="100%">
+    <div style="height:170px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+      <img src='images/wpgrec.png' alt="WPGRec" style="width:100%; height:100%; object-fit:cover; object-position:center;">
     </div>
   </div>
 
@@ -83,8 +83,8 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <img src='images/saba.png' alt="SABA" style="width:100%; height:210px; object-fit:cover; object-position:center;">
+    <div style="height:170px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+      <img src='images/saba.png' alt="SABA" style="width:100%; height:100%; object-fit:cover; object-position:center;">
     </div>
   </div>
 
@@ -102,8 +102,8 @@ Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <img src='images/pinpointqa.png' alt="PinpointQA" width="100%">
+    <div style="height:170px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+      <img src='images/pinpointqa.png' alt="PinpointQA" style="width:100%; height:100%; object-fit:cover; object-position:center;">
     </div>
   </div>
 
@@ -121,8 +121,8 @@ Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zh
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="height:120px; overflow:hidden; display:flex; align-items:center;">
-      <img src='images/awsarima.png' alt="AW-SARIMA" style="width:100%; transform:scale(1.18);">
+    <div style="height:170px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+      <img src='images/awsarima.png' alt="AW-SARIMA" style="width:100%; height:100%; object-fit:contain; object-position:center;">
     </div>
   </div>
 
