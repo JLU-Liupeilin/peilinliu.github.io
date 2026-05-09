@@ -17,6 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<style>
+.pub-img-box {
+  width: 100%;
+  height: 185px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+}
+
+.pub-img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  object-position: center;
+}
+</style>
+
 <h1 style="font-size: 1.65rem; color: #174a7c; margin-bottom: 0.8rem;">
   👋 About Me
 </h1>
@@ -65,23 +84,8 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="
-      width:100%;
-      height:190px;
-      overflow:hidden;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      background:#ffffff;
-    ">
-      <img src='images/wpgrec.png' alt="WPGRec" style="
-        max-width:100%;
-        max-height:100%;
-        width:auto;
-        height:auto;
-        object-fit:contain;
-        object-position:center;
-      ">
+    <div class="pub-img-box">
+      <img src='images/wpgrec.png' alt="WPGRec">
     </div>
   </div>
 
@@ -98,23 +102,8 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="
-      width:100%;
-      height:190px;
-      overflow:hidden;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      background:#ffffff;
-    ">
-      <img src='images/saba.png' alt="SABA" style="
-        max-width:100%;
-        max-height:100%;
-        width:auto;
-        height:auto;
-        object-fit:contain;
-        object-position:center;
-      ">
+    <div class="pub-img-box">
+      <img src='images/saba.png' alt="SABA">
     </div>
   </div>
 
@@ -132,23 +121,8 @@ Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="
-      width:100%;
-      height:190px;
-      overflow:hidden;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      background:#ffffff;
-    ">
-      <img src='images/pinpointqa.png' alt="PinpointQA" style="
-        max-width:100%;
-        max-height:100%;
-        width:auto;
-        height:auto;
-        object-fit:contain;
-        object-position:center;
-      ">
+    <div class="pub-img-box">
+      <img src='images/pinpointqa.png' alt="PinpointQA">
     </div>
   </div>
 
@@ -166,23 +140,8 @@ Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zh
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="
-      width:100%;
-      height:190px;
-      overflow:hidden;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      background:#ffffff;
-    ">
-      <img src='images/awsarima.png' alt="AW-SARIMA" style="
-        max-width:100%;
-        max-height:100%;
-        width:auto;
-        height:auto;
-        object-fit:contain;
-        object-position:center;
-      ">
+    <div class="pub-img-box">
+      <img src='images/awsarima.png' alt="AW-SARIMA">
     </div>
   </div>
 
