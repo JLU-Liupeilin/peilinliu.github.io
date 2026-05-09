@@ -1,5 +1,5 @@
-title: "Peilin liu"
-description: "A third-year undergraduate student majoring in Software Engineering at Jilin University."
+title: "Peilin Liu"
+description: "Class of 2023 undergraduate student in the Excellent Engineer Program, College of Software, Jilin University."
 repository: "JLU-Liupeilin/peilinliu.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -9,13 +9,13 @@ bing_site_verification:
 baidu_site_verification:
 
 author:
-  name: "Peilin liu"
+  name: "Peilin Liu"
   avatar: "images/peilinliu.jpg"
-  bio: "My research focuses on Federated Learning, Multimodal Large Language Models, and Computer Vision."
+  bio: "Class of 2023 undergraduate student in the Excellent Engineer Program, College of Software, Jilin University. My research interests include embodied intelligence, large language models, multimodal spatial understanding, recommender systems, federated learning, and time-series forecasting."
   location: "Jilin, China"
-  employer:
+  employer: "Jilin University"
   pubmed:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=CEom0AEAAAAJ&hl=en"
   email: "liupl9922@mails.jlu.edu.cn"
   researchgate:
   uri:
@@ -25,7 +25,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github:
+  github: "JLU-Liupeilin"
   google_plus:
   keybase:
   instagram:

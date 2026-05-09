@@ -17,42 +17,152 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-666666666666666666666ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<h1 style="font-size: 1.65rem; color: #174a7c; margin-bottom: 0.8rem;">
+  👋 About Me
+</h1>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<div style="
+  background: linear-gradient(90deg, #eef6ff 0%, #f8fbff 100%);
+  border-left: 4px solid #2b6cb0;
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem;
+  margin: 1rem 0 2rem 0;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+  line-height: 1.8;
+  font-size: 1rem;
+">
 
+  <p>
+    I am <strong>Peilin Liu</strong>, an undergraduate student in the 
+    <strong>Excellent Engineer Program in Software Engineering</strong> at the 
+    <strong>College of Software, Jilin University</strong>. I have worked on 
+    <strong>large language models</strong>, <strong>multimodal spatial understanding</strong>, 
+    <strong>embodied intelligence</strong>, <strong>recommender systems</strong>, 
+    <strong>federated learning</strong>, and <strong>time-series forecasting</strong>.
+  </p>
+
+  <p>
+    I have research experience in <strong>natural language processing</strong>, 
+    <strong>recommender systems</strong>, and <strong>multimodal understanding</strong>. 
+    Recently, my work has been accepted by <strong>SIGIR 2026 (CCF A)</strong> and 
+    <strong>ACL 2026 (CCF A)</strong>. I have also participated in research on 
+    multimodal video spatial understanding benchmarks and efficient time-series forecasting.
+  </p>
+
+  <p>
+    I served as a <strong>Program Committee Reviewer for ACM ICMR 2026</strong>.
+  </p>
+
+</div>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2026.05*: &nbsp;🎉 Our work received highly positive feedback during the **ACL 2026 Argument Mining (ArgMining)** review process and is currently under submission to **EMNLP 2026**.
+- *2026.04*: &nbsp;🎉 Our paper **Self-Awareness before Action: Mitigating Logical Inertia via Proactive Cognitive Awareness** was accepted to **ACL 2026**.
+- *2026.04*: &nbsp;🎉 Our paper **WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation** was accepted to **SIGIR 2026**.
+- *2026.04*: &nbsp;📌 Our benchmark work **PinpointQA** was released on arXiv, focusing on small object-centric spatial understanding in indoor videos. Within the first month after release, it received over 4,000 downloads on Hugging Face.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/wpgrec.png' alt="WPGRec" width="100%">
+    </div>
+  </div>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  <div class='paper-box-text' markdown="1">
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation](https://arxiv.org/abs/2604.21305)
+
+**Peilin Liu**, Zhiquan Ji, Gang Yan
+
+<strong>SIGIR 2026.</strong> WPGRec is a wavelet packet guided graph-enhanced framework for sequential recommendation, aligning multi-resolution temporal modeling with subband-wise graph propagation and adaptive gated fusion.
+
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/saba.png' alt="SABA" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[Self-Awareness before Action: Mitigating Logical Inertia via Proactive Cognitive Awareness](https://arxiv.org/abs/2604.20413)
+
+Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang, Gang Yan  
+<sup>†</sup>Equal contribution.
+
+<strong>ACL 2026.</strong> SABA is a self-awareness-before-action reasoning framework that audits missing premises before final decision-making, improving long-context reasoning through information fusion and query-driven structured reasoning.
+
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/pinpointqa.png' alt="PinpointQA" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos](https://rainchowz.github.io/PinpointQA/)
+
+Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zhang, Cheng Zhang, Hongxia Xie, Wen-Huang Cheng  
+<sup>†</sup>Equal contribution.
+
+<strong>arXiv 2026.</strong> PinpointQA is a dataset and benchmark for small object-centric spatial understanding in indoor videos. It evaluates whether multimodal models can verify target presence, identify the nearest reference object, generate fine-grained spatial descriptions, and produce structured spatial predictions, covering 1,024 scenes and 10,094 QA pairs.
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/awsarima.png' alt="AW-SARIMA" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[AW-SARIMA: Efficient Hybrid Framework for Nonstationary Time Series Forecasting via DWT and Adaptive Thresholding](https://link.springer.com/chapter/10.1007/978-981-96-9875-2_4)
+
+**Peilin Liu**, Zhiyu Zhou, Fangming Gu, Luyang Zhang, Yixing Song, Sheng Lu
+
+<strong>ICIC 2025 Oral.</strong> AW-SARIMA is a lightweight hybrid framework for nonstationary short-term time series forecasting. It combines DWT-based signal decomposition, adaptive threshold denoising, and SARIMA modeling to improve forecasting accuracy and robustness under noisy and data-limited scenarios.
+
+  </div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **National Scholarship**, Top 1%.
+- **Outstanding Student of Jilin University**, Top 3%.
+- **First-Class Scholarship of Jilin University**.
+- **Outstanding Student of the College of Software, Jilin University**.
+- **Academic and Technological Innovation Award**.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - Present*, **B.Eng. in Software Engineering**, Excellent Engineer Program, College of Software, Jilin University.
+
+# 🏆 Competitions
+
+- *2025*, National First Prize, National 3D Digital Innovation Design Competition.
+- *2025*, National Second Prize, iCAN College Student Innovation and Entrepreneurship Competition, AI Challenge.
+- *2024*, Honorable Mention, Mathematical Contest in Modeling (MCM).
+- *2024*, Provincial First Prize, The 16th Chinese Mathematics Competitions, Non-Mathematics Group A.
+- *2023*, Provincial First Prize, Contemporary Undergraduate Mathematical Contest in Modeling, Jilin Province.
+
+# 💻 Works in Progress
+
+- **KDD 2026 submission**, under review.
+- **ECCV 2026 submission**, under review.
+- **CIKM 2026 submission**, in preparation.
+- **EMNLP 2026 submission**, in preparation.
