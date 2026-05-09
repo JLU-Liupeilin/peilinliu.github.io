@@ -35,24 +35,23 @@ redirect_from:
   <p>
     I am <strong>Peilin Liu</strong>, an undergraduate student in the 
     <strong>Excellent Engineer Program in Software Engineering</strong> at the 
-    <strong>College of Software, Jilin University</strong>. I have worked on 
-    <strong>large language models</strong>, <strong>multimodal spatial understanding</strong>, 
-    <strong>embodied intelligence</strong>, <strong>recommender systems</strong>, 
-    <strong>federated learning</strong>, and <strong>time-series forecasting</strong>.
+    College of Software, Jilin University. I have worked on embodied intelligence, 
+    large language models, multimodal spatial understanding, recommender systems, 
+    federated learning, and time-series forecasting.
   </p>
 
   <p>
-    I have research experience in <strong>natural language processing</strong>, 
-    <strong>recommender systems</strong>, and <strong>multimodal understanding</strong>. 
-    Recently, my work has been accepted by <strong>SIGIR 2026 (CCF A)</strong> and 
-    <strong>ACL 2026 (CCF A)</strong>. I have also participated in research on 
-    multimodal video spatial understanding benchmarks and efficient time-series forecasting.
+    I have research experience in natural language processing, recommender systems, 
+    and multimodal understanding. Recently, my work has been accepted by 
+    <strong>SIGIR 2026 (CCF A)</strong> and <strong>ACL 2026 (CCF A)</strong>. 
+    I have also participated in research on multimodal video spatial understanding 
+    benchmarks and efficient time-series forecasting.
   </p>
 
   <p>
     I served as a <strong>Program Committee Reviewer for ACM ICMR 2026</strong>.
   </p>
-
+  
 </div>
 
 # 🔥 News
@@ -77,7 +76,7 @@ redirect_from:
 
 **Peilin Liu**, Zhiquan Ji, Gang Yan
 
-<strong>SIGIR 2026.</strong> WPGRec is a wavelet packet guided graph-enhanced framework for sequential recommendation, aligning multi-resolution temporal modeling with subband-wise graph propagation and adaptive gated fusion.
+<span style="font-weight:800;">SIGIR 2026.</span> WPGRec is a wavelet packet guided graph-enhanced framework for sequential recommendation, aligning multi-resolution temporal modeling with subband-wise graph propagation and adaptive gated fusion.
 
   </div>
 </div>
@@ -85,7 +84,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/saba.png' alt="SABA" width="100%">
+      <img src='images/saba.png' alt="SABA" style="width:100%; height:160px; object-fit:cover; object-position:center;">
     </div>
   </div>
 
@@ -96,7 +95,7 @@ redirect_from:
 Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang, Gang Yan  
 <sup>†</sup>Equal contribution.
 
-<strong>ACL 2026.</strong> SABA is a self-awareness-before-action reasoning framework that audits missing premises before final decision-making, improving long-context reasoning through information fusion and query-driven structured reasoning.
+<span style="font-weight:800;">ACL 2026.</span> SABA is a self-awareness-before-action reasoning framework that audits missing premises before final decision-making, improving long-context reasoning through information fusion and query-driven structured reasoning.
 
   </div>
 </div>
@@ -115,17 +114,15 @@ Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang
 Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zhang, Cheng Zhang, Hongxia Xie, Wen-Huang Cheng  
 <sup>†</sup>Equal contribution.
 
-<strong>arXiv 2026.</strong> PinpointQA is a dataset and benchmark for small object-centric spatial understanding in indoor videos. It evaluates whether multimodal models can verify target presence, identify the nearest reference object, generate fine-grained spatial descriptions, and produce structured spatial predictions, covering 1,024 scenes and 10,094 QA pairs.
+<span style="font-weight:800;">arXiv 2026.</span> PinpointQA is a dataset and benchmark for small object-centric spatial understanding in indoor videos. It evaluates whether multimodal models can verify target presence, identify the nearest reference object, generate fine-grained spatial descriptions, and produce structured spatial predictions, covering 1,024 scenes and 10,094 QA pairs.
 
   </div>
 </div>
 
-
-
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <img src='images/awsarima.png' alt="AW-SARIMA" width="100%">
+    <div style="height:150px; overflow:hidden; display:flex; align-items:center;">
+      <img src='images/awsarima.png' alt="AW-SARIMA" style="width:100%; transform:scale(1.45);">
     </div>
   </div>
 
@@ -135,10 +132,14 @@ Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zh
 
 **Peilin Liu**, Zhiyu Zhou, Fangming Gu, Luyang Zhang, Yixing Song, Sheng Lu
 
-<strong>ICIC 2025 Oral.</strong> AW-SARIMA is a lightweight hybrid framework for nonstationary short-term time series forecasting. It combines DWT-based signal decomposition, adaptive threshold denoising, and SARIMA modeling to improve forecasting accuracy and robustness under noisy and data-limited scenarios.
+<span style="font-weight:800;">ICIC 2025 Oral.</span> AW-SARIMA is a lightweight hybrid framework for nonstationary short-term time series forecasting. It combines DWT-based signal decomposition, adaptive threshold denoising, and SARIMA modeling to improve forecasting accuracy and robustness under noisy and data-limited scenarios.
 
   </div>
 </div>
+
+# 📖 Education
+
+- *2023.09 - Present*, **B.Eng. in Software Engineering**, Excellent Engineer Program, College of Software, Jilin University.
 
 # 🎖 Honors and Awards
 
@@ -147,10 +148,6 @@ Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zh
 - **First-Class Scholarship of Jilin University**.
 - **Outstanding Student of the College of Software, Jilin University**.
 - **Academic and Technological Innovation Award**.
-
-# 📖 Education
-
-- *2023.09 - Present*, **B.Eng. in Software Engineering**, Excellent Engineer Program, College of Software, Jilin University.
 
 # 🏆 Competitions
 
