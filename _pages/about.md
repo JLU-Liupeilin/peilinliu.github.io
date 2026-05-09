@@ -19,9 +19,9 @@ redirect_from:
 
 <style>
 .pub-img-box {
-  width: 100%;
-  height: 185px;
-  overflow: hidden;
+  width: 300px;
+  height: 170px;
+  overflow: visible;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -29,10 +29,23 @@ redirect_from:
 }
 
 .pub-img-box img {
-  width: 100%;
-  height: 100%;
+  width: 300px;
+  height: 170px;
   object-fit: fill;
   object-position: center;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .pub-img-box {
+    width: 100%;
+    height: 170px;
+  }
+
+  .pub-img-box img {
+    width: 100%;
+    height: 170px;
+  }
 }
 </style>
 
