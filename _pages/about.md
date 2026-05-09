@@ -83,8 +83,20 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="height:170px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
-      <img src='images/saba.png' alt="SABA" style="width:100%; height:100%; object-fit:cover; object-position:center;">
+    <div style="
+      width: 660px;
+      height: 250px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img src='images/saba.png' alt="SABA" style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      ">
     </div>
   </div>
 
