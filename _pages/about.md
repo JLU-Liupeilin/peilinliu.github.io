@@ -84,7 +84,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/saba.png' alt="SABA" style="width:100%; height:160px; object-fit:cover; object-position:center;">
+      <img src='images/saba.png' alt="SABA" style="width:100%; height:210px; object-fit:cover; object-position:center;">
     </div>
   </div>
 
@@ -121,8 +121,8 @@ Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zh
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="height:150px; overflow:hidden; display:flex; align-items:center;">
-      <img src='images/awsarima.png' alt="AW-SARIMA" style="width:100%; transform:scale(1.45);">
+    <div style="height:120px; overflow:hidden; display:flex; align-items:center;">
+      <img src='images/awsarima.png' alt="AW-SARIMA" style="width:100%; transform:scale(1.18);">
     </div>
   </div>
 
