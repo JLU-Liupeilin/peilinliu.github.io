@@ -44,6 +44,7 @@ redirect_from:
     I have research experience in natural language processing, recommender systems, 
     and multimodal understanding. Recently, my work has been accepted by 
     <strong>SIGIR 2026 (CCF A)</strong> and <strong>ACL 2026 (CCF A)</strong>. 
+    and <strong>EUSIPCO 2026 (CORE B)</strong>.
     I have also participated in research on multimodal video spatial understanding 
     benchmarks and efficient time-series forecasting.
   </p>
@@ -195,7 +196,7 @@ MAGNet: Multi-Adjacency Graph Network for Spatiotemporal sEMG
 
 Yitong Ma, **Peilin Liu**, Junxian Li, Gang Yan
 
-<span style="font-weight:800;">EUSIPCO 2026.</span> MAGNet is a multi-adjacency graph network for sEMG-based gesture recognition. It integrates Transformer-based temporal modeling with graph attention-based spatial reasoning, combining static, feature-driven, and time-varying adjacency matrices to capture spatiotemporal muscle activation patterns.
+<span style="font-weight:800;">EUSIPCO 2026, CORE B.</span> MAGNet is a multi-adjacency graph network for sEMG-based gesture recognition. It integrates Transformer-based temporal modeling with graph attention-based spatial reasoning, combining static, feature-driven, and time-varying adjacency matrices to capture spatiotemporal muscle activation patterns.
 
   </div>
 </div>
