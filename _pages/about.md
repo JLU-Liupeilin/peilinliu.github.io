@@ -56,6 +56,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉 Our paper **MAGNet: Multi-Adjacency Graph Network for Spatiotemporal sEMG** was accepted to **EUSIPCO 2026**.
 - *2026.05*: &nbsp;🎉 Our work received highly positive feedback during the **ACL 2026 Argument Mining (ArgMining)** review process and is currently under submission to **EMNLP 2026**.
 - *2026.04*: &nbsp;🎉 Our paper **Self-Awareness before Action: Mitigating Logical Inertia via Proactive Cognitive Awareness** was accepted to **ACL 2026**.
 - *2026.04*: &nbsp;🎉 Our paper **WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation** was accepted to **SIGIR 2026**.
@@ -130,6 +131,7 @@ Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang
   </div>
 </div>
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="
@@ -163,6 +165,41 @@ Zhiyu Zhou<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Ruoxuan Zhang, Luyang Zh
 
   </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="
+      width:100%;
+      height:190px;
+      overflow:hidden;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background:#ffffff;
+    ">
+      <img src='images/semg.png' alt="MAGNet" style="
+        max-width:100%;
+        max-height:100%;
+        width:auto;
+        height:auto;
+        object-fit:contain;
+        object-position:center;
+      ">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+MAGNet: Multi-Adjacency Graph Network for Spatiotemporal sEMG
+
+Yitong Ma, **Peilin Liu**, Junxian Li, Gang Yan
+
+<span style="font-weight:800;">EUSIPCO 2026.</span> MAGNet is a multi-adjacency graph network for sEMG-based gesture recognition. It integrates Transformer-based temporal modeling with graph attention-based spatial reasoning, combining static, feature-driven, and time-varying adjacency matrices to capture spatiotemporal muscle activation patterns.
+
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
