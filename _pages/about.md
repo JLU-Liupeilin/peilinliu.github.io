@@ -93,7 +93,7 @@ redirect_from:
 
 **Peilin Liu**, Zhiquan Ji, Gang Yan
 
-<span style="font-weight:800;">SIGIR 2026.</span> WPGRec is a wavelet packet guided graph-enhanced framework for sequential recommendation, aligning multi-resolution temporal modeling with subband-wise graph propagation and adaptive gated fusion.
+<span style="font-weight:800;">SIGIR 2026 (CCF A).</span> WPGRec is a wavelet packet guided graph-enhanced framework for sequential recommendation, aligning multi-resolution temporal modeling with subband-wise graph propagation and adaptive gated fusion.
 
   </div>
 </div>
@@ -127,7 +127,7 @@ redirect_from:
 Fulong Fan<sup>†</sup>, **Peilin Liu<sup>†</sup>**, Liu FengZhe, Shuyan Yang, Gang Yan  
 <sup>†</sup>Equal contribution.
 
-<span style="font-weight:800;">ACL 2026.</span> SABA is a self-awareness-before-action reasoning framework that audits missing premises before final decision-making, improving long-context reasoning through information fusion and query-driven structured reasoning.
+<span style="font-weight:800;">ACL 2026 (CCF A).</span> SABA is a self-awareness-before-action reasoning framework that audits missing premises before final decision-making, improving long-context reasoning through information fusion and query-driven structured reasoning.
 
   </div>
 </div>
@@ -196,7 +196,7 @@ MAGNet: Multi-Adjacency Graph Network for Spatiotemporal sEMG
 
 Yitong Ma, **Peilin Liu**, Junxian Li, Gang Yan
 
-<span style="font-weight:800;">EUSIPCO 2026, CORE B.</span> MAGNet is a multi-adjacency graph network for sEMG-based gesture recognition. It integrates Transformer-based temporal modeling with graph attention-based spatial reasoning, combining static, feature-driven, and time-varying adjacency matrices to capture spatiotemporal muscle activation patterns.
+<span style="font-weight:800;">EUSIPCO 2026 (CORE B).</span> MAGNet is a multi-adjacency graph network for sEMG-based gesture recognition. It integrates Transformer-based temporal modeling with graph attention-based spatial reasoning, combining static, feature-driven, and time-varying adjacency matrices to capture spatiotemporal muscle activation patterns.
 
   </div>
 </div>
@@ -230,7 +230,7 @@ Yitong Ma, **Peilin Liu**, Junxian Li, Gang Yan
 
 **Peilin Liu**, Zhiyu Zhou, Fangming Gu, Luyang Zhang, Yixing Song, Sheng Lu
 
-<span style="font-weight:800;">ICIC 2025 Oral.</span> AW-SARIMA is a lightweight hybrid framework for nonstationary short-term time series forecasting. It combines DWT-based signal decomposition, adaptive threshold denoising, and SARIMA modeling to improve forecasting accuracy and robustness under noisy and data-limited scenarios.
+<span style="font-weight:800;">ICIC 2025 Oral (CCF C).</span> AW-SARIMA is a lightweight hybrid framework for nonstationary short-term time series forecasting. It combines DWT-based signal decomposition, adaptive threshold denoising, and SARIMA modeling to improve forecasting accuracy and robustness under noisy and data-limited scenarios.
 
   </div>
 </div>
